@@ -82,6 +82,8 @@ uv run --python 3.10 .\server.py
 在 Claude Desktop 中輸入 `create a cube` Unity 3D 新專案就會升成一個 Cube 在編輯器中  
 
 ## 目前最好用的 Unity MCP
-不會一直斷線重開，目前我已經換下面這個了
+不會一直斷線重開，目前我已經換下面這個了  
 * MCP Unity Editor
-https://github.com/CoderGamester/mcp-unity/blob/main/README_zh-CN.md
+https://github.com/CoderGamester/mcp-unity/blob/main/README_zh-CN.md  
+![MCP Unity](./images/MCP-UNITY-01.png)
+
